@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__init__.py
+
+
+# IDE files
+.vscode/
+
+# Environment files
+.env
+.venv/
+
+# Poetry files
+poetry.lock
+
+# Test artifacts
+.pytest_cache/
